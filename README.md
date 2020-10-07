@@ -5,7 +5,7 @@ It'a a small app for iOS written in swift. Make use of CoreLocation framework fo
 
 
 Features:
-- Ask for pemission to use GPS sensors
+- Ask for pemission to use GPS sensor
 - Geolocate you position based on the GPS sensor
 - Get direction to a specific destination from your current location
 - Save a pin(location) to the database
