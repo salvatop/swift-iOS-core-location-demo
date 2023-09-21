@@ -10,6 +10,5 @@ Features:
 - Get direction to a specific destination from your current location
 - Save a pin(location) to the database
 
-![screenshoot1](images/Screenshot1.png)
 ![screenshoot2](images/Screenshot2.png)
 ![screenshoot3](images/Screenshot3.png)
